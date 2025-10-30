@@ -1,0 +1,26 @@
+{
+  "name": "js-object-interview-problems",
+  "version": "1.0.0",
+  "description": "Welcome to the **JavaScript Object Interview Problems** series — a curated collection of **20 hand-picked problems** designed to strengthen your understanding of JavaScript objects through real-world use cases.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/navneeth-sortur/js-object-interview-problems.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/navneeth-sortur/js-object-interview-problems/issues"
+  },
+  "homepage": "https://github.com/navneeth-sortur/js-object-interview-problems#readme",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
